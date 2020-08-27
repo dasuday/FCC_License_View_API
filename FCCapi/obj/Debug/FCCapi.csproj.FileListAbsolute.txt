@@ -1,0 +1,7 @@
+C:\Users\crazy\OneDrive\Workspace-VS\FCCapi\FCCapi\bin\Debug\FCCapi.exe.config
+C:\Users\crazy\OneDrive\Workspace-VS\FCCapi\FCCapi\bin\Debug\FCCapi.exe
+C:\Users\crazy\OneDrive\Workspace-VS\FCCapi\FCCapi\bin\Debug\FCCapi.pdb
+C:\Users\crazy\OneDrive\Workspace-VS\FCCapi\FCCapi\obj\Debug\FCCapi.csprojAssemblyReference.cache
+C:\Users\crazy\OneDrive\Workspace-VS\FCCapi\FCCapi\obj\Debug\FCCapi.csproj.CoreCompileInputs.cache
+C:\Users\crazy\OneDrive\Workspace-VS\FCCapi\FCCapi\obj\Debug\FCCapi.exe
+C:\Users\crazy\OneDrive\Workspace-VS\FCCapi\FCCapi\obj\Debug\FCCapi.pdb
